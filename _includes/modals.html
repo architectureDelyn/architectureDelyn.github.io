@@ -15,8 +15,10 @@
           <div class="modal-body">
             <h2>{{ post.title }}</h2>
             <hr class="star-primary">
-            <!-- <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}"> -->
+            <img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered">
+            <!-- markdown 파일에 img2 속성을 만들어 놓고 modals는 img2 보게하고, grid.html은 img를 보게하면됨. -->
             <!-- 위 주석을 해제하면 Experience 클릭 시 상세 내용에서 이미지를 보여줄 수 있음. -->
+            <!-- 현재는 alt 지우고, img2를 비워버렸는데, 이러면 그림파일 아이콘이 보이긴함. 즉 걍 공백이미지를 만들어 놓고 그걸 바라보게 하는게 나을지도? -->
             {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %}
