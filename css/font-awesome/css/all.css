@@ -113,6 +113,14 @@
   border-width: var(--fa-border-width, 0.08em);
   padding: var(--fa-border-padding, 0.2em 0.25em 0.15em); }
 
+  .fa-border2 {
+    border-color: var(--fa-border-color, #d21414);
+    border-radius: var(--fa-border-radius, 0.1em);
+    border-style: var(--fa-border-style, solid);
+    border-width: var(--fa-border-width, 0.08em);
+    padding: var(--fa-border-padding, 0.2em 0.25em 0.15em); }
+  
+
 .fa-pull-left {
   float: left;
   margin-right: var(--fa-pull-margin, 0.3em); }
