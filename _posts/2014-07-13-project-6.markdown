@@ -3,9 +3,9 @@ layout: default
 modal-id: 6
 date: 2014-07-18
 img: cabin.png
-title: "데이터 표준화 퀵가이드 제정"
+title: "보안취약점 개선 논문 작성"
 alt: image-alt
-Pdf: test12.pdf
+Pdf: thesis.pdf
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam. Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.Use this area of the page to describe your project. Lorem ipsum dolor -
 
 ---

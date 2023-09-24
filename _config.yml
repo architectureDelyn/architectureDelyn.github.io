@@ -1,6 +1,6 @@
 # Site settings
 title: Architect-Delyn
-email: sony345@hanyang.ac.kr
+email: wjdalsgur12@naver.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
@@ -35,21 +35,13 @@ color:
 footer:
   copyright: Dr. Henry Jekyll
   location: Location
-  social: OTHERS
+  social: Tech Blog
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: blogger
+    url: https://genius-architect-jung.tistory.com/
 
 # Postal address (add as many lines as necessary)
 address:
