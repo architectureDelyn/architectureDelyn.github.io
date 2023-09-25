@@ -5,5 +5,8 @@ date: 2014-07-18
 img: cabin.png
 title: "4. 테이블 현행화 작업 진행"
 alt: image-alt
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam. Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.Use this area of the page to describe your project. Lorem ipsum dolor -
+description: "[배경]<br>- 데이터 활용중심 거버넌스 수립에 따라서 데이터 정비 활동 수행<br>- 비즈메타와 IT메타의 연결 전 IT메타의 데이터 정비는 필수(DA포탈에서 관리되지 않는 시스템 정보 등록 등)<br><br><br>[해결]<br>- EAMS 내 등록된 시스템 중 DA포탈에 미등록된 시스템 선정<br>- 각 시스템 담당자 컨택하여 데이터 정비 및 DA포탈 등록 가능 여부 확인<br>
+- 테이블 컬럼의 comment 여부, 
+ERwin S/W Reverse Engineering을 통해 직접 DB에 연결 후 ERD 추출 진행
+"
 ---
