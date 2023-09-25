@@ -3,8 +3,10 @@ layout: default
 modal-id: 1
 date: 2014-07-18
 img: cabin.png
-title: "데이터 표준화 퀵가이드 제정"
+title: "1. 데이터 표준화 퀵가이드 제정"
 alt: image-alt
 Pdf: quickguide.pdf
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam. Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.Use this area of the page to describe your project. Lorem ipsum dolor -
+description: "[배경]<br>- 기존 데이터 표준화 상세정의서의 경우 55Page로 사용자가 정독하는 경우는 거의 없고,<br>- 사례 관련 내용의 부재로 이해하기까지 많은 시간을 투자해야만 했음<br>- 따라서 정의서에 있는 내용임에도 일단 유선으로 문의하는 경우가 많았음<br><br>[해결]<br>- 기존 데이터 표준화 상세정의서 분석을 통해 현행 기준과 다른 부분 개정 및 주요내용 요약 진행<br>- ㅎㅇㄹ"
+
+
 ---
