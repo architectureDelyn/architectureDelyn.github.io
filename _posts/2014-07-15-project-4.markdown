@@ -5,8 +5,5 @@ date: 2014-07-18
 img: cabin.png
 title: "4. 테이블 현행화 작업 진행"
 alt: image-alt
-description: "[배경]<br>- 데이터 활용중심 거버넌스 수립에 따라서 데이터 정비 활동 수행<br>- 비즈메타와 IT메타의 연결 전 IT메타의 데이터 정비는 필수(DA포탈에서 관리되지 않는 시스템 정보 등록 등)<br><br><br>[해결]<br>- EAMS 내 등록된 시스템 중 DA포탈에 미등록된 시스템 선정<br>- 각 시스템 담당자 컨택하여 데이터 정비 및 DA포탈 등록 가능 여부 확인<br>
-- 테이블 컬럼의 comment 여부, 
-ERwin S/W Reverse Engineering을 통해 직접 DB에 연결 후 ERD 추출 진행
-"
+description: "[배경]<br>- 데이터 활용중심 거버넌스 수립에 따라 데이터 정비 활동 수행<br>- 비즈메타와 IT메타의 연결 전 IT메타의 데이터 정비는 필수(DA포탈에서 관리되지 않는 시스템 정보 등록 등)<br><br><br>[해결]<br>- EAMS 내 등록된 시스템 중 DA포탈에 미등록된 시스템 선정<br>- 각 시스템 담당자 컨택하여 데이터 정비 및 DA포탈 등록 가능 여부 확인<br>- 대상 시스템 DB Script Export 및 .sql 파일 수신하여 Model Mart 내 reverse 진행<br>- 테이블 컬럼의 comment 여부 등에 따른 논리 모델 속성(한글)명 정비 진행(작업 시 물리 모델은 Harden Physical Name을 통한 고정)<br>- 관계 표기 오류(미표기 등) 및 누락 엔터티 등 확인하여 정비 진행<br>- 논리 모델 확정 후 Model Mart 정보 읽어서 DA포탈 형상에 등록 진행(비표준 시스템은 별도 표준화 작업 없이 등록)"
 ---
