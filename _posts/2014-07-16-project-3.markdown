@@ -3,7 +3,7 @@ layout: default
 modal-id: 3
 date: 2014-07-18
 img: cabin.png
-title: "3. 데이터 표준화 퀵가이드 제정"
+title: "3. 메타 MCP 서버 개발"
 alt: image-alt
 Pdf: quickguide.pdf
 org: quickguide.pdf
